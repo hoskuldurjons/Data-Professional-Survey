@@ -1,4 +1,4 @@
-# Power-BI-Projects
+# PowerBI-Data Professionals Survey
 
 This repo is for open source Power BI Projects.
 
